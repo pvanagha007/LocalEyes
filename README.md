@@ -1,6 +1,6 @@
 # LocalEyes
 
-A web application connecting travelers with local experiences and guides.
+A web application connecting travellers with local experiences and guides.
 
 ## About
 

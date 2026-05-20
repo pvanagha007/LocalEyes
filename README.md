@@ -53,6 +53,6 @@ The app will run on `http://localhost:3000`
 
 - **Frontend**: React
 - **Backend**: Node.js
-- **Database**: Firebase
+- **Database**: Firebase (futurescope : try with mongodb)
 
 
